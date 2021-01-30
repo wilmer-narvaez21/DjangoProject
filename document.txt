@@ -1,0 +1,19 @@
+Estos archivos son:
+
+El directorio raíz externo es un contenedor para el proyecto. Su nombre no le importa a Django; puedes cambiarle el nombre a cualquier cosa que quieras.mysite/
+
+manage.py: Una utilidad de línea de comandos que le permite interactuar con este proyecto de 
+Django de varias maneras. Puede leer todos los detalles sobre django-admin y manage.py.manage.py
+
+El directorio interno es el paquete de Python real para el proyecto. Su nombre es el nombre del paquete Python que necesitarás usar para importar cualquier cosa dentro de él (por ejemplo).mysite/mysite.urls
+
+mysite/__init__.py: un archivo vacío que indica a Python que este directorio debe considerarse 
+un paquete de Python. Si eres un principiante de Python, lee más sobre los paquetes en los 
+documentos oficiales de Python.
+
+mysite/settings.py: Ajustes/configuración para este proyecto de Django. 
+La configuración de Django le dirá todo sobre cómo funcionan los ajustes.
+
+mysite/urls.py: las declaraciones de URL para este proyecto de Django; una "tabla de contenido" de su sitio impulsado por Django. Puede leer más acerca de las direcciones URL en el distribuidor de URL.
+mysite/asgi.py: Un punto de entrada para servidores web compatibles con ASGI para servir a su proyecto. Consulte Cómo implementar con ASGI para obtener más detalles.
+mysite/wsgi.py: Un punto de entrada para servidores web compatibles con WSGI para servir a su proyecto. Consulte Cómo implementar con WSGI para obtener más detalles.
