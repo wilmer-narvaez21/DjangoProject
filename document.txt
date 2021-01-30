@@ -17,3 +17,5 @@ La configuración de Django le dirá todo sobre cómo funcionan los ajustes.
 mysite/urls.py: las declaraciones de URL para este proyecto de Django; una "tabla de contenido" de su sitio impulsado por Django. Puede leer más acerca de las direcciones URL en el distribuidor de URL.
 mysite/asgi.py: Un punto de entrada para servidores web compatibles con ASGI para servir a su proyecto. Consulte Cómo implementar con ASGI para obtener más detalles.
 mysite/wsgi.py: Un punto de entrada para servidores web compatibles con WSGI para servir a su proyecto. Consulte Cómo implementar con WSGI para obtener más detalles.
+
+Hola prro!
