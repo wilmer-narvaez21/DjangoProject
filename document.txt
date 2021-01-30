@@ -18,4 +18,4 @@ mysite/urls.py: las declaraciones de URL para este proyecto de Django; una "tabl
 mysite/asgi.py: Un punto de entrada para servidores web compatibles con ASGI para servir a su proyecto. Consulte Cómo implementar con ASGI para obtener más detalles.
 mysite/wsgi.py: Un punto de entrada para servidores web compatibles con WSGI para servir a su proyecto. Consulte Cómo implementar con WSGI para obtener más detalles.
 
-hola perro 2.0 que onda
+hola perro 2.0 que onda h
