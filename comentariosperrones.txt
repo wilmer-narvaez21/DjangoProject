@@ -12,4 +12,4 @@ ya cree los modelos y elecciones para la base de datos
 
 esty siguiendo el manual de django, use SQLite por que es el que esta
 por defecto en python y django(esto solo para pruebas)
-de todas formas ya veras los commitds
+de todas formas ya veras los commitdsfa
