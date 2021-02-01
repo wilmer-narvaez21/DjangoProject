@@ -29,7 +29,7 @@ ALLOWED_HOSTS = []
 
 
 # Application definition
-
+# se sintalo a appps.poll de la base de datos
 INSTALLED_APPS = [
     'polls.apps.PollsConfig',
     'django.contrib.admin',

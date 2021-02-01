@@ -19,3 +19,5 @@ mysite/asgi.py: Un punto de entrada para servidores web compatibles con ASGI par
 mysite/wsgi.py: Un punto de entrada para servidores web compatibles con WSGI para servir a su proyecto. Consulte Cómo implementar con WSGI para obtener más detalles.
 
 Hola prro!
+
+este ya se hizo en master
