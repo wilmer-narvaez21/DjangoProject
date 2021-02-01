@@ -15,3 +15,5 @@ por defecto en python y django(esto solo para pruebas)
 de todas formas ya veras los commitdsfa
 456
 dsadasdasdsadsada
+
+No xd
