@@ -14,3 +14,4 @@ esty siguiendo el manual de django, use SQLite por que es el que esta
 por defecto en python y django(esto solo para pruebas)
 de todas formas ya veras los commitdsfa
 456
+dsadasdasdsadsada
