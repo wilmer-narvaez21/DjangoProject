@@ -2,6 +2,8 @@
 """Django's command-line utility for administrative tasks."""
 import os
 import sys
+#exploramos la api de base de datos
+
 
 
 def main():

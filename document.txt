@@ -21,3 +21,8 @@ mysite/wsgi.py: Un punto de entrada para servidores web compatibles con WSGI par
 Hola prro!
 
 este ya se hizo en master
+------------------------------
+guia de tres paso para hacer cambios de modelos de base de datos
+- Cambie sus modelos (en models.py).
+- Ejecute el comando python manage.py makemigrations para crear migraciones para esos cambios
+- Ejecute el comando python manage.py migrate para aplicar esos cambios a la base de datos.
