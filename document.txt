@@ -26,3 +26,10 @@ guia de tres paso para hacer cambios de modelos de base de datos
 - Cambie sus modelos (en models.py).
 - Ejecute el comando python manage.py makemigrations para crear migraciones para esos cambios
 - Ejecute el comando python manage.py migrate para aplicar esos cambios a la base de datos.
+
+clase Httpresponse
+
+Cuando se solicita una página, Django crea un objeto HttpRequest que contiene metadatos sobre la solicitud.
+Luego, Django carga la vista adecuada, pasando HttpRequest como primer argumento a la función de vista. Cada vista es responsable de devolver un objeto HttpResponse.
+
+Este documento explica las API para los objetos HttpRequest y HttpResponse, que se definen en el módulo django.http.detail
